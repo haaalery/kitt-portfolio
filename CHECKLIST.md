@@ -17,7 +17,7 @@
 - [x] Ensure visual consistency with the Rockstar theme.
 
 ## Phase 4: Project Ops (Portfolio Gallery)
-- [ ] Repurpose modal system for Project Deep-Dives.
+- [ ] **[In Progress]** Repurpose modal system for Project Deep-Dives.
 - [ ] Detail "Operation Zero," "Operation Nexus," etc.
 - [ ] Add functional project links (GitHub/Live Demo).
 
